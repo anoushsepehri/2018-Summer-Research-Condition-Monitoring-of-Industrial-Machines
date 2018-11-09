@@ -99,6 +99,8 @@ def updatepayload():
         plot= round(time.time() - lastConnectionTime + timesave,2)
         signal,signal2 = getdata()
 
+# define signal retrieval depending on the application of the system
+
         messageBuffer['time']= plot
         messageBuffer['signal1']=signal
         messageBuffer['signal2']=signal2
