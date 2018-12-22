@@ -18,7 +18,7 @@ The modular device was retrofitted on a agriculture vehicle.
 
 <p align="center">
   <br><br>
-  <img src="https://user-images.githubusercontent.com/43504838/50371085-b8ff7d80-0568-11e9-801b-d59050e81631.png">
+  <img src="https://user-images.githubusercontent.com/43504838/50371086-b9981400-0568-11e9-9186-95f7b004f2f6.jpg">
 </p>
 
 ![tractor](https://user-images.githubusercontent.com/43504838/50371085-b8ff7d80-0568-11e9-801b-d59050e81631.png)
