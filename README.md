@@ -11,10 +11,10 @@ The device was tested on an agriculture farming vehicle and the device succesful
 
 A paper documenting the research was written and published at the 2018 IEEE IEMCON conference in Vancouver.
 
-
-![modular device](https://user-images.githubusercontent.com/43504838/50371050-35de2780-0568-11e9-9fa4-04ba7a3fa3cf.jpg)
-
-The modular device was retrofitted on a agriculture vehicle.
+<p align="center">
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/43504838/50371050-35de2780-0568-11e9-9fa4-04ba7a3fa3cf.jpg">
+</p>
 
 <p align="center">
   <br><br>
@@ -22,4 +22,4 @@ The modular device was retrofitted on a agriculture vehicle.
 </p>
 
 ![tractor](https://user-images.githubusercontent.com/43504838/50371085-b8ff7d80-0568-11e9-801b-d59050e81631.png)
-![tractor 2](https://user-images.githubusercontent.com/43504838/50371086-b9981400-0568-11e9-9186-95f7b004f2f6.jpg)
+
