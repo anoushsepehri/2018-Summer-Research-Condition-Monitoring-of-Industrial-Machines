@@ -17,10 +17,6 @@ A paper documenting the research was written and published at the 2018 IEEE IEMC
 The modular device was retrofitted on a agriculture vehicle.
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
   <br><br>
   <img src="https://user-images.githubusercontent.com/43504838/50371085-b8ff7d80-0568-11e9-801b-d59050e81631.png">
 </p>
