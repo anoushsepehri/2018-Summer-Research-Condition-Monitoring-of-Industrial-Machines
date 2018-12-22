@@ -1,3 +1,5 @@
-# 2018 Summer Research at the University of Manitoba
-Raspberry Pi Scripts for data sampling, transferring and recieving. DAQ software samples data and sends to AWS IoT. Conversion script used to convert compressed data to JSON and CSV formatting once retrieved from the cloud.
-Developed for Summer Research at the University of Manitoba for Condition Monitoring of Industrial Machines
+# 2018 Undergraduate Summer Research at the University of Manitoba
+Given the increasing need of fault detection and diagnosis and the decreasing feasibility of manual condition monitoring nowadays, this project focused on the development of a modular device that can be retrofitted onto existing machines to monitor their performance. The data are stored on the device and then automatically sent to a cloud server when a wireless connection is established. Once on the cloud server, it can be downloaded and analyzed from anywhere in the world.
+
+The code was written in Python 3 and used Amazon Web Services to store data. Work was done at the University of Manitoba'a Fluid Power and TeleRobotics Research Laboratory
+
