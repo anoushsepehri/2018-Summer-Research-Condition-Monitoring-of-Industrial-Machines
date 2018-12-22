@@ -8,3 +8,4 @@ The DAQ file is ran locally on the modular device and the Conversion File is ran
 ![modular device](https://user-images.githubusercontent.com/43504838/50371050-35de2780-0568-11e9-9fa4-04ba7a3fa3cf.jpg)
 
 The modular Device Consisted of a Raspberry Pi 3, and basic circuitry to step down voltage signals and filter noise
+
