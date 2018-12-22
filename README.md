@@ -9,3 +9,8 @@ The DAQ file is ran locally on the modular device and the Conversion File is ran
 
 The modular Device Consisted of a Raspberry Pi 3, and basic circuitry to step down voltage signals and filter noise
 
+
+![tractor](https://user-images.githubusercontent.com/43504838/50371085-b8ff7d80-0568-11e9-801b-d59050e81631.png)
+![tractor 2](https://user-images.githubusercontent.com/43504838/50371086-b9981400-0568-11e9-9186-95f7b004f2f6.jpg)
+
+The device was tested on an agriculture tracotr and succesfully sampled and stored data in regards to the pressure cylinders controlling the steering of the machine.
