@@ -3,3 +3,4 @@ Given the increasing need of fault detection and diagnosis and the decreasing fe
 
 The code was written in Python 3 and used Amazon Web Services to store data. Work was done at the University of Manitoba'a Fluid Power and TeleRobotics Research Laboratory
 
+The DAQ file is ran locally on the modular device and the Conversion File is ran on any host computer that will be retrieving the data.
